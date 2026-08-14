@@ -90,4 +90,4 @@ Este projeto é de uso livre para fins educacionais e de estudo.
 
 ---
 
-Feito com ❤️ por Ghost – sinta-se à vontade para contribuir ou sugerir melhorias!
+sinta-se à vontade para contribuir, sugerir melhorias no codigo ou me dando dicas do que devo melhorar pois sou inciante no mundo da programacao!

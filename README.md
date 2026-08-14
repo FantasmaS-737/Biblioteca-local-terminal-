@@ -7,7 +7,9 @@ run the code:
 3-add
 4-remove
 5-add to favorits
-6-finish
+6-conclude
 7-exit
 
-and now,
+and now,the option you choose will do what it says
+
+if you choose the option 3,will happen this, in "3-add" you will place the information of the book,firts is "title" next is "characteristic" and finalmente "autor".
